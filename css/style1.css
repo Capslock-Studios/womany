@@ -1,0 +1,97 @@
+#style-switcher h2 a { background: #fff none repeat scroll 0 0 }
+#style-switcher h2 a i {color: #fa77ff;}
+
+.topcontrol {background: #fa77ff none repeat scroll 0 0;}
+
+
+.single_about i {color: #fa77ff;}
+.single_about:hover i{background: #fa77ff none repeat scroll 0 0;border: 1px solid #fa77ff;}
+
+.single_feature_btn_light {
+	background: #fa77ff;
+	border: 2px solid #fa77ff;
+}
+.single_feature_btn_light:hover,
+.single_feature_btn_light:focus {
+	border: 2px solid #fa77ff;
+    color: #fa77ff;
+}
+.single_service:hover i {background: #fa77ff;}
+.single_counter span {color: #fa77ff;}
+
+[data-carousel-3d] [data-prev-button]:hover:before, [data-carousel-3d] [data-next-button]:hover:before {
+    background:#fa77ff ;color: #fff;
+}
+
+.video-play i {background: #fa77ff;}
+.video-title {color: #fa77ff;}
+
+.single_more_feature:hover .single_icon span {color: #fa77ff;}
+.single_more_feature:hover .single_text h3 {color: #fa77ff;}
+
+.owl-theme .owl-controls .owl-page span {background-color: #fa77ff !important;}
+
+.partner-logo{background:#fa77ff;}
+
+.pricingTable .pricing-icon {color: #fa77ff;}
+.pricingTable .pricingTable-order a {
+	background: #fa77ff;
+	border: 2px solid #fa77ff;
+}
+
+.pricingTable .pricingTable-order a:hover{
+border: 2px solid #fa77ff;
+background:#fff;
+color:#fa77ff;
+}
+
+.pricingTable.green .pricing-icon,
+.pricingTable.green .price-value{
+    color: #fa77ff;
+}
+.pricingTable.blue:before,
+.pricingTable.blue .pricingTable-signup a{
+    background: #f0f3fa;
+}
+.pricingTable.blue .pricing-icon,
+.pricingTable.blue .price-value{
+    color: #fa77ff;
+}
+
+.btn-app-bg {background: #fa77ff none repeat scroll 0 0;}
+
+.contact input:focus {border: 2px solid #fa77ff;}
+.contact textarea:focus {border: 2px solid #fa77ff;}
+
+.btn-contact-bg {
+	background: #fa77ff;
+	border: 2px solid #fa77ff;
+}
+.btn-contact-bg:hover,
+.btn-contact-bg:focus {
+    background: #fff;
+	border: 2px solid #fa77ff;
+    color: #fa77ff;
+}
+
+.single_address i {color: #fa77ff;}
+
+.single_footer ul li a:hover { color: #fa77ff ; }
+
+.subs_btn {
+	background: #fa77ff;
+	border:2px solid #fa77ff;
+	color: #fff;
+	padding: 12px;
+	transition: 0.3s;
+}
+.subs_btn:hover{
+background: #fff;
+border:2px solid #fff;
+color:#fa77ff;
+}
+
+
+
+
+
